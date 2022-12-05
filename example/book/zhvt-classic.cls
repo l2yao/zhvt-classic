@@ -88,7 +88,7 @@
 \keys_define:nn { zhvt }
   {
     main_font           .str_set:N = \l__zhvt_main_font_str,
-    main_font           .initial:n = Microsoft~JhengHei~Light,
+    main_font           .initial:n = Microsoft~JhengHei,
     font_size           .dim_set:N = \l__zhvt_font_size_dim,
     font_size           .initial:n = 27.32pt,    % 9.6mm，但不可直接用
     baselineskip_ratio   .fp_set:N = \l__zhvt_baseline_skip_ratio_fp,
